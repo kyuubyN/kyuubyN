@@ -68,7 +68,7 @@ input:checked+.mario {
             color: #fff;
         }
     </style>
-    
+    <body>
     <div class="scene">
         <input type="checkbox" checked>
         <div class="mario"></div>
@@ -93,3 +93,4 @@ input:checked+.mario {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyuubyn&show_icons=true&locale=en&layout=compact" alt="kyuubyn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyuubyn&show_icons=true&locale=en" alt="kyuubyn" /></p>
+</body>
