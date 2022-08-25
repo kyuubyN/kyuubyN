@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuubyn&label=Profile%20views&color=0e75b6&style=flat" alt="kyuubyn" /> </p>
 
-- 🚀 Fazendo um Projeto sobre: [Super Onze](https://kyuubyn.github.io/Projeto_SuperOnze/)
+- 🚀 Fazendo um Projeto sobre: [Epic Games](https://kyuubyn.github.io/EpicGamesPage/#)
 
 - 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python.**
 
