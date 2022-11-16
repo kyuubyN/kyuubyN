@@ -7,7 +7,7 @@
 
 - 🚀 Fazendo um Projeto sobre: [Epic Games](https://kyuubyn.github.io/EpicGamesPage/#)
 
-- 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python.**
+- 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python, Linguagem C.**
 
 - 📫 Contato: **kaue.costa15@outlook.com.br**
 
