@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Sistemas de Informação na Faculdade Impacta de Tecnologia - FIT.</h3>
 <h4 align="center">Ex-Estudante de ADS na Unip.</h4>
 
-<a href="kyuubyn.github.io/MeuPort/" target"blank" align="center">Clique aqui para ver meu Portfólio Web</a>
+ - Meu portfólio Web [Clique aqui](kyuubyn.github.io/MeuPort/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuubyn&label=Profile%20views&color=0e75b6&style=flat" alt="kyuubyn" /> </p>
 
