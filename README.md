@@ -1,5 +1,6 @@
 <h1 align="center">Olá sou o Kauê Oliveira Costa</h1>
-<h3 align="center">Estudante de ADS na Unip.</h3>
+<h3 align="center">Estudante de Sistemas de Informação na Faculdade Impacta de Tecnologia - FIT.</h3>
+<h4 align="center">Ex-Estudante de ADS na Unip.</h4>
 
 
 
