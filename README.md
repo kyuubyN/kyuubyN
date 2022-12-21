@@ -10,8 +10,6 @@
 
 - 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python, Linguagem C.**
 
-- 📫 Contato: **kaue.costa15@outlook.com.br**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kau%C3%AA-oliveira-costa-620570229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kauê oliveira costa" height="30" width="40" /></a>
