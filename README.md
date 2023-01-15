@@ -20,7 +20,5 @@
 <a href="https://visualstudio.microsoft.com/pt-br/vs/features/cplusplus/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C language" width="40" height="40"/></p>
 <a href="[https://visualstudio.microsoft.com/pt-br/vs/features/cplusplus/](https://www.javascript.com)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40"/></p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyuubyn&show_icons=true&locale=en&layout=compact" alt="kyuubyn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyuubyn&show_icons=true&locale=en" alt="kyuubyn" /></p>
 
