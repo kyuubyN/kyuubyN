@@ -4,8 +4,6 @@
 
  - Meu portfólio Web [Clique aqui](https://kyuubyn.github.io/MeuPort/#)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyuubyn&label=Profile%20views&color=0e75b6&style=flat" alt="kyuubyn" /> </p>
-
 - 🚀 Fazendo um Projeto sobre: [Epic Games](https://kyuubyn.github.io/EpicGamesPage/#)
 
 - 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python, Linguagem C.**
