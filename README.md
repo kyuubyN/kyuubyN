@@ -2,10 +2,6 @@
 <h3 align="center">Estudante de Sistemas de Informação na Faculdade Impacta de Tecnologia - FIT.</h3>
 <h4 align="center">Ex-Estudante de ADS na Unip.</h4>
 
- - Meu portfólio Web [Clique aqui](https://kyuubyn.github.io/MeuPort/#)
-
-- 🚀 Fazendo um Projeto sobre: [Epic Games](https://kyuubyn.github.io/EpicGamesPage/#)
-
 - 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python, Linguagem C.**
 
                               .,***********,.                               
