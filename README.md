@@ -1,8 +1,7 @@
 <h1 align="center">Olá sou o Kauê Oliveira Costa</h1>
-<h3 align="center">Estudante de Sistemas de Informação na Faculdade Impacta de Tecnologia - FIT.</h3>
-<h4 align="center">Ex-Estudante de ADS na Unip.</h4>
+<h3 align="center">Estudante de Sistemas de Informação na Faculdade Impacta de Tecnologia.</h3>
 
-- 🌱 Estou aprendendo sobre: **HTML, CSS, JS, Python, Linguagem C.**
+- 🌱 Estou aprendendo sobre: **RPA, DEVOPS E DES. MOBILE**
 
                               .,***********,.                               
                           ,*,*,***********//////,                           
