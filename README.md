@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/736x/d6/0b/60/d60b60df9147a88c660bc1452385c3a7.jpg" style="height: 80px; width: auto;"/>
 <p>Apoie meus projetos😍</p>
 
-<a href="buymeacoffee.com/kyuubyn"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" style="height: 50px; width: auto;" /></a>
+<a href="https://buymeacoffee.com/kyuubyn"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" style="height: 50px; width: auto;" /></a>
         
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
