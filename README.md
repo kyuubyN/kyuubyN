@@ -1,21 +1,61 @@
-<h1>Olá, seja bem-vindo(a) ao meu perfil!</h1>
-<p>Apoie meus projetos</p>
-
+# Olá, seja bem-vindo!
 <a href="https://buymeacoffee.com/kyuubyn"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" style="height: 50px; width: auto;" /></a>
   
-## Conecte-se comigo
-<a href="https://www.linkedin.com/in/kaue-o-costa/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" style="height:40px;"></a>
+<img align="right" alt="" height="190px" src="gif.gif">
 
-## Habilidades
+<h3 align="left">Connect with me!</h3>
 
-Python - Flask - Anaconda - Jupyter lab - HTML - CSS - JS - Wordpress - Bootstrap - Git - Pandas - C - Figma - Miro - Trello - SQL Server - PostgreSQL - React
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFF)](mailto:kaue.costa15@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
 
-## Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<h3 align="left">My Stack</h3>
 
-## Meus projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kyuubyN&repo=IA-Com-Chat-de-voz-Gemini&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/kyuubyN/IA-Com-Chat-de-voz-Gemini)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="25" alt='flask'/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt='python'/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="25" alt='C'/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" alt='C#' />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="25" alt='wordpress'/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="25" alt='java'/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="25" alt='anaconda'/>
+  <img width="8" />
+</div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="25"/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="25"/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25"/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height='25'/>
+              
+  
+</div>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kyuubyN&repo=ApiRestFlask&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/kyuubyN/ApiRestFlask)
+<div style="text-align: center;" align="center">
+  <h3> GitHub Stats </h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyuubyN&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/kyuubyN/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&hide=html,css&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+
+
 
 
