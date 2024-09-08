@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo!
 <a href="https://buymeacoffee.com/kyuubyn"><img src="https://miro.medium.com/v2/resize:fit:1400/1*VJdus0nKuy1uNoByh5BN3w.png" style="height: 50px; width: auto;" /></a>
   
-<img align="right" alt="" height="190px" src="https://steamuserimages-a.akamaihd.net/ugc/965356328458014530/442708EEC654C53710A14AAAE0F94171B6A08654/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="" height="190px" src="https://cdn.dribbble.com/users/482997/screenshots/3865694/catwalk.gif">
 
 <h3 align="left">Connect with me!</h3>
 
