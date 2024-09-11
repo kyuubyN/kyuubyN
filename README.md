@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyuubyN&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/kyuubyN/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&hide=html,css&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&hide=html,css&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyuubyN&theme=javascript&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   </a>
 </div>
 
