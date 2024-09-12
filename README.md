@@ -3,7 +3,7 @@
   
 <img align="right" alt="" height="190px" src="https://cdn.dribbble.com/users/482997/screenshots/3865694/catwalk.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Connect with me</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFF)](mailto:kaue.costa15@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
