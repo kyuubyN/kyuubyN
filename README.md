@@ -8,8 +8,6 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFF)](mailto:kaue.costa15@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=zGfnjYWJQH-TcMp6jgX99g)
-
 <h3 align="left">My Stack</h3>
 
 <div align="left">
