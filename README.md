@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFF&color:FFF)](mailto:kaue.costa15@outlook.com.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
+[![E-mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=FFF&color:000000)](mailto:kaue.costa15@outlook.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f77bd?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
 
 <h3 align="left">My Stack</h3>
 
