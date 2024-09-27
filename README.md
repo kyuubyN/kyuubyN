@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo!
   
-<img align="right" alt="" height="190px" src="https://cdn.dribbble.com/users/482997/screenshots/3865694/catwalk.gif">
+<img align="right" alt="" height="190px" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 
 <h3 align="left">Connect with me:</h3>
 
