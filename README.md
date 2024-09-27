@@ -1,9 +1,10 @@
 # Olá, seja bem-vindo!
+  
 <img align="right" alt="" height="190px" src="https://cdn.dribbble.com/users/482997/screenshots/3865694/catwalk.gif">
 
 <h3 align="left">Connect with me:</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-black?style=for-the-badge&logoColor=000)](mailto:kaue.costa15@outlook.com.br)
+[![E-mail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=FFF&color:000000)](mailto:kaue.costa15@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f77bd?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
 
 <h3 align="left">My Stack</h3>
@@ -46,10 +47,9 @@
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats </h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyuubyN&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=f5ed1d&title_color=000&text_color=000&border_radius=5&border_color=000&icon_color=000&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyuubyN&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFF&text_color=FFF&border_radius=3&border_color=FFF&icon_color=FFF&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/kyuubyN/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=000&hide=html,css&bg_color=f5ed1d&text_color=000&border_radius=5&border_color=000&count_private=true" alt="Most Used Languages"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyuubyN&theme=javascript&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFF&hide=html,css&bg_color=000&text_color=FFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyuubyN&theme=javascript&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
   </a>
 </div>
-
