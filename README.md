@@ -2,12 +2,12 @@
   
 <img align="right" alt="" height="190px" src="https://gifdb.com/images/thumbnail/coding-walking-cat-17mitwkziw2xzxxk.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 
 [![E-mail](https://img.shields.io/badge/-Gmail-ad0303?style=for-the-badge&logo=gmail&logoColor=FFF&color:000000)](mailto:kaue.costa15@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ad0303?style=for-the-badge&logo=linkedin&logoColor=FFF&color:FFF)](https://www.linkedin.com/in/kaue-o-costa/)
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">Minhas skills:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -45,7 +45,7 @@
 </div>
 
 <div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
+  <h3> GitHub Stats: </h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=10&card_width=290&layout=pie&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=ad0303&hide=html,css&bg_color=121111&text_color=FFF&border_radius=3&border_color=1c1c1c&count_private=true" alt="Most Used Languages"><br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyuubyN&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=121111&title_color=ad0303&text_color=FFF&border_radius=3&border_color=1c1c1c&icon_color=ad0303&theme=jolly" alt="GitHub stats"><br>
