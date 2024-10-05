@@ -54,7 +54,7 @@
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats: </h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=20&card_width=300&layout=donut&hide_title=false&count_private=true&langs_count=6&show_icons=true&title_color=ad0303&hide=html,css&bg_color=121111&text_color=FFF&border_radius=3&border_color=1c1c1c&count_private=true" alt="Most Used Languages"><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyuubyN&line_height=20&card_width=300&layout=donut&hide_title=false&count_private=true&langs_count=8&show_icons=true&title_color=ad0303&hide=html,css&bg_color=121111&text_color=FFF&border_radius=3&border_color=1c1c1c&count_private=true" alt="Most Used Languages"><br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyuubyN&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=121111&title_color=ad0303&text_color=FFF&border_radius=3&border_color=1c1c1c&icon_color=ad0303&theme=jolly" alt="GitHub stats"><br>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyuubyN&theme=youtube-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_current_streak=true" alt="GitHub Streak" /></a>
   </a>
